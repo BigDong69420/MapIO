@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MapIO</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="mapbox_access_token">pk.eyJ1Ijoic3QxMDExOTI3MCIsImEiOiJjbDZraWZjam0wMDFjM21vOXpsa3E4MG4wIn0.UQ_Ntml20DufTH72OdifEA</string>
+
+</resources>
